@@ -1,5 +1,4 @@
-{
-  "pokemons": [
+[
     {
       "id": 1,
       "name": "Bulbizarre",
@@ -136,4 +135,3 @@
       "id": 13
     }
   ]
-}
